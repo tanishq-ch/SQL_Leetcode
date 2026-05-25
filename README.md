@@ -7,7 +7,6 @@
 <img src="https://img.shields.io/badge/SQL-Structured%20Query%20Language-blue?style=for-the-badge&logo=mysql">
 <img src="https://img.shields.io/badge/LeetCode-SQL%2050-orange?style=for-the-badge&logo=leetcode">
 <img src="https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge">
-<img src="https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPO?style=for-the-badge">
 
 </div>
 
